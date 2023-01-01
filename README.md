@@ -30,3 +30,9 @@ I have created a informational bot named "restaurant" using Html and services li
 - courses ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About courses,how it works, history, full forms and detailed view of courses.
 ## screenshots :
+- <img width="1080" alt="m1" src="https://user-images.githubusercontent.com/112693629/210160560-77d5d8b9-c56f-42ad-b502-81efb1444b87.png">
+- <img width="1080" alt="m2" src="https://user-images.githubusercontent.com/112693629/210160561-79cc3240-29c8-44f5-96f4-34dc7e7c0a00.png">
+- <img width="1080" alt="m3" src="https://user-images.githubusercontent.com/112693629/210160563-9872ab2e-57ab-45a6-acba-432a6897c5c9.png">
+- <img width="1080" alt="m5" src="https://user-images.githubusercontent.com/112693629/210160565-1a00b96a-f3e4-4dc5-944e-88d4163d571b.png">
+- <img width="1080" alt="m4" src="https://user-images.githubusercontent.com/112693629/210160573-5a4ced96-399b-4cec-b55c-0b7d22db9ea0.png">
+
